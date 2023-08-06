@@ -1,0 +1,20 @@
+.App-body {
+  @media (min-width: 600px) {
+    width: 60%;
+    max-width: 895px;
+    text-align: center;
+  }
+
+  .App-section {
+    margin-top: 50px;
+
+    .Text-justify {
+      text-align: justify;
+      text-justify: inter-word;
+
+      @media (min-width: 600px) {
+        text-align: center;
+      }
+    }
+  }
+}
