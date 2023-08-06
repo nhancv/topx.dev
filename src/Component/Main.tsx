@@ -31,7 +31,7 @@ export default class Main extends React.Component {
             description={`
               <div>
                 We are TopX.Dev | Uranus a reliable software outsourcing company. <br /><br />
-                We are expert full-stack programmers led by @nhancv who has a wide knowledge covering almost every aspect of the IT field and ensures a 100% success rate.
+                We are expert full-stack programmers led by <a target="_blank" href="https://nhancv.com">@nhancv</a> who has a wide knowledge covering almost every aspect of the IT field and ensures a 100% success rate.
                 <br />
               </div>
             `}
