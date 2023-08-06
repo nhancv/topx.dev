@@ -6,7 +6,7 @@ import './index.scss';
 import App from './App';
 import * as serviceWorker from './serviceWorker';
 // @nhancv: Scroll animation
-import './Resource/aos.css';
+import './Libs/aos.css';
 
 ReactDOM.render(
   <React.StrictMode>
